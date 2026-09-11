@@ -1,0 +1,99 @@
+[
+    {
+        "numero": 1,
+        "cliente": "maria ",
+        "cpf": "45698871236",
+        "produto": "coca ",
+        "quantidade": 5,
+        "valor_unitario": 5.99,
+        "total": 29.950000000000003,
+        "data": "11/09/2026"
+    },
+    {
+        "numero": 2,
+        "cliente": "maria dias ",
+        "cpf": "789456123",
+        "produto": "coca",
+        "quantidade": 5,
+        "valor_unitario": 8.99,
+        "total": 44.95,
+        "data": "11/09/2026"
+    },
+    {
+        "numero": 3,
+        "cliente": "maria dias ",
+        "cpf": "789456123456",
+        "produto": "pespi",
+        "quantidade": 9,
+        "valor_unitario": 10.85,
+        "total": 160.57999999999998,
+        "data": "11/09/2026"
+    },
+    {
+        "numero": 4,
+        "cliente": "maria dias ",
+        "cpf": "79856132",
+        "produto": "fruta",
+        "quantidade": 8,
+        "valor_unitario": 5.22,
+        "total": 86.71000000000001,
+        "data": "11/09/2026"
+    },
+    {
+        "numero": 5,
+        "cliente": "maria dias ",
+        "cpf": "789456123",
+        "produto": "batata",
+        "quantidade": 4,
+        "valor_unitario": 10.55,
+        "total": 86.1,
+        "data": "11/09/2026"
+    },
+    {
+        "numero": 6,
+        "cliente": "maria dias ",
+        "cpf": "78945132",
+        "produto": "batat",
+        "quantidade": 9,
+        "valor_unitario": 6.75,
+        "total": 124.67,
+        "data": "11/09/2026"
+    },
+    {
+        "numero": 7,
+        "cliente": "maria dis ",
+        "cpf": "78654132",
+        "produto": "coca cola",
+        "quantidade": 8,
+        "valor_unitario": 7.55,
+        "total": 123.52,
+        "data": "11/09/2026"
+    },
+    {
+        "numero": 8,
+        "cliente": "maria dias ",
+        "cpf": "897645312",
+        "produtos": [
+            {
+                "nome": "batata",
+                "qtd": 8,
+                "valor": 7.86,
+                "subtotal": 62.88
+            },
+            {
+                "nome": "cocacola ",
+                "qtd": 8,
+                "valor": 6.75,
+                "subtotal": 54.0
+            },
+            {
+                "nome": "bala fini ",
+                "qtd": 8,
+                "valor": 6.55,
+                "subtotal": 52.4
+            }
+        ],
+        "total": 169.28,
+        "data": "11/09/2026"
+    }
+]

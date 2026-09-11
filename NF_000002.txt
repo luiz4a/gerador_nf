@@ -1,0 +1,16 @@
+
+=================================
+NOTA FISCAL Nº 000002
+=================================
+
+Cliente: maria dias 
+CPF/CNPJ: 789456123
+
+Produto: coca
+Quantidade: 5
+Valor Unitário: R$ 8.99
+
+TOTAL: R$ 44.95
+
+Data: 11/09/2026
+=================================

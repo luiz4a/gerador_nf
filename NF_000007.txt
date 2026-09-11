@@ -1,0 +1,16 @@
+
+=================================
+NOTA FISCAL Nº 000007
+=================================
+
+Cliente: maria dis 
+CPF/CNPJ: 78654132
+
+Produto: coca cola
+Quantidade: 8
+Valor Unitário: R$ 7.55
+
+TOTAL: R$ 123.52
+
+Data: 11/09/2026
+=================================

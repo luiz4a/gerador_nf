@@ -1,0 +1,16 @@
+
+=================================
+NOTA FISCAL Nº 000004
+=================================
+
+Cliente: maria dias 
+CPF/CNPJ: 79856132
+
+Produto: fruta
+Quantidade: 8
+Valor Unitário: R$ 5.22
+
+TOTAL: R$ 86.71
+
+Data: 11/09/2026
+=================================

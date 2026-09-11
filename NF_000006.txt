@@ -1,0 +1,16 @@
+
+=================================
+NOTA FISCAL Nº 000006
+=================================
+
+Cliente: maria dias 
+CPF/CNPJ: 78945132
+
+Produto: batat
+Quantidade: 9
+Valor Unitário: R$ 6.75
+
+TOTAL: R$ 124.67
+
+Data: 11/09/2026
+=================================

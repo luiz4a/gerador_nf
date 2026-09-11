@@ -1,0 +1,16 @@
+
+=================================
+NOTA FISCAL Nº 000003
+=================================
+
+Cliente: maria dias 
+CPF/CNPJ: 789456123456
+
+Produto: pespi
+Quantidade: 9
+Valor Unitário: R$ 10.85
+
+TOTAL: R$ 160.58
+
+Data: 11/09/2026
+=================================

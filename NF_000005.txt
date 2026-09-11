@@ -1,0 +1,16 @@
+
+=================================
+NOTA FISCAL Nº 000005
+=================================
+
+Cliente: maria dias 
+CPF/CNPJ: 789456123
+
+Produto: batata
+Quantidade: 4
+Valor Unitário: R$ 10.55
+
+TOTAL: R$ 86.10
+
+Data: 11/09/2026
+=================================
